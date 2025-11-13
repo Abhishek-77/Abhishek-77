@@ -14,6 +14,7 @@ I’m passionate about using data to solve real-world problems, improve decision
 ### Python:
 ----
 1. 🔗 [sentiments_analysis →](https://github.com/Abhishek-77/sentiment_analysis_python)
+2. 🔗 [EDA_using_pandas →](https://github.com/Abhishek-77/pandas)
 
 
 <br><br>
