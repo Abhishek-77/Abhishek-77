@@ -11,7 +11,7 @@ I’m passionate about using data to solve real-world problems, improve decision
 
 ## Projects:
 
-### Python:
+### Python: ( Numpay, Pandas, Matplotlib)
 ----
 1. 🔗 [sentiments_analysis →](https://github.com/Abhishek-77/sentiment_analysis_python)
 2. 🔗 [EDA_using_pandas →](https://github.com/Abhishek-77/pandas)
@@ -23,6 +23,14 @@ I’m passionate about using data to solve real-world problems, improve decision
 ### Power BI:
 ----
 1. 🔗 [revenue_analysis_powerbi →](https://github.com/Abhishek-77/revenue_analysis_powerbi)
+
+
+<br><br>
+
+
+### SQL:
+----
+
 
 
 <br><br>
