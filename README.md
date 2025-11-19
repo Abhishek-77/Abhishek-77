@@ -32,8 +32,8 @@ I’m passionate about using data to solve real-world problems, improve decision
 ----
 
 1. 🔗 [online_store_customer_behavior_analysis →](https://github.com/Abhishek-77/online_store_customer_behaviour_analysis_sql/blob/main/README.md)
-2. 🔗 [e_commerce_platform_sales_analysi →](https://github.com/Abhishek-77/e_commarce_platform_sales_analysis_sql/blob/main/README.md)
-
+2. 🔗 [e_commerce_platform_sales_analysis →](https://github.com/Abhishek-77/e_commarce_platform_sales_analysis_sql/blob/main/README.md)
+3.  🔗 [online_food_delivery_app_orders_analysis →](https://github.com/Abhishek-77/online_food_delivery_app_orders_analysis_sql/tree/main)
 
 
 <br><br>
