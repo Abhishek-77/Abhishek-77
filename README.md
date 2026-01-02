@@ -8,7 +8,6 @@ I enjoy working with Python (Pandas, NumPy), SQL, and Power BI, and I’ve recen
 I’m passionate about using data to solve real-world problems, improve decision-making, and drive measurable business impact.
 
 
-
 ## Projects:
 
 ### Python: ( Numpay, Pandas, Matplotlib)
@@ -17,14 +16,9 @@ I’m passionate about using data to solve real-world problems, improve decision
 2. 🔗 [EDA_using_pandas →](https://github.com/Abhishek-77/pandas)
 
 
-
-
 ### Power BI:
 ----
 1. 🔗 [revenue_analysis_powerbi →](https://github.com/Abhishek-77/revenue_analysis_powerbi)
-
-
-<br><br>
 
 
 ### SQL:
@@ -33,9 +27,6 @@ I’m passionate about using data to solve real-world problems, improve decision
 1. 🔗 [online_store_customer_behavior_analysis →](https://github.com/Abhishek-77/online_store_customer_behaviour_analysis_sql/blob/main/README.md)
 2. 🔗 [e_commerce_platform_sales_analysis →](https://github.com/Abhishek-77/e_commarce_platform_sales_analysis_sql/blob/main/README.md)
 3.  🔗 [online_food_delivery_app_orders_analysis →](https://github.com/Abhishek-77/online_food_delivery_app_orders_analysis_sql/tree/main)
-
-
-<br><br>
 
 
 ### Excel:
