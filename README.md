@@ -17,7 +17,6 @@ I’m passionate about using data to solve real-world problems, improve decision
 2. 🔗 [EDA_using_pandas →](https://github.com/Abhishek-77/pandas)
 
 
-<br><br>
 
 
 ### Power BI:
